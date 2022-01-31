@@ -1,0 +1,17 @@
+{
+  "version": "0.1.0",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Felix De Montis",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^14.3.2",
+    "node-fetch": "^3.2.0"
+  },
+  "name": "@dervondenbergen/adobelocalfont",
+  "devDependencies": {},
+  "description": "Download fonts from Adobe Fonts (Typekit) for local developments."
+}
